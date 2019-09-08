@@ -1,2 +1,1 @@
-# Tableau Projects
-
+# Tableau Case Studies
